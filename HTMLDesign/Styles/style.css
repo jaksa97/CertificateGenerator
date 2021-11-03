@@ -1,0 +1,216 @@
+body 
+{
+    background-color: #cccccc;
+	background-repeat: no-repeat;
+}
+
+p  
+{
+    font-family: Jura;
+    font-size: 30px;
+    font-weight: normal;
+}
+
+h1
+{
+    font-family: Jura;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h2 
+{
+    font-family: Jura;
+    font-size: 28px;
+    font-weight: normal;
+}
+
+h3 
+{
+    font-family: Socium Free;
+    font-size: 90px;
+    font-weight: normal;
+}
+
+h4 
+{
+    font-family: Jura;
+    font-size: 22px;
+    font-weight: normal;
+}
+
+h5 
+{
+    font-family: Calibri (Body);
+    font-size: 22px;
+    font-weight: normal;
+}
+
+.graph-7
+{
+	background-repeat: no-repeat;
+}
+
+.graph-img img
+{
+	display: none;
+}
+
+@media print
+{
+	.graph-img img
+	{
+	  display:inline;
+	}
+}
+
+.logo
+{
+	position: absolute; 
+	top: 80px; 
+	left: 225px; 
+	width: 600px;
+}
+
+.logo img
+{
+	width: 630px;
+}
+
+.maja img
+{
+	width: 270px;
+}
+
+.maki img
+{
+	width: 270px;
+}
+
+.maja
+{
+	position: absolute; 
+	top: 490px; 
+	left: -10px; 
+	width: 600px;
+}
+
+.maki
+{
+	position: absolute; 
+	top: 498px; 
+	left: 470px; 
+	width: 600px;
+}
+
+.zaglavlje
+{
+	position: absolute; 
+	top: 165px; 
+	left: 235px; 
+	width: 600px; 
+	height: 55px;
+}
+
+.zahvalnica
+{
+	position: absolute; 
+	top: 150px; 
+	left: 260px; 
+	width: 550px; 
+	height: 55px;
+}
+
+.ucenik
+{
+	position: absolute; 
+	top: 327px; 
+	left: 260px; 
+	width: 550px; 
+	height: 55px;
+}
+
+.skola
+{
+	position: absolute; 
+	top: 377px; 
+	left: 190px; 
+	width: 700px; 
+	height: 40px;
+}
+
+.text
+{
+	position: absolute; 
+	top: 435px; 
+	left: 180px; 
+	width: 700px; 
+	height: 40px;
+}
+
+.line1
+{
+	position: absolute; 
+	top: 478px; 
+	left: 185px; 
+	width: 280px; 
+	height: 120px;
+}
+
+.majadj
+{
+	position: absolute; 
+	top: 545px; 
+	left: 209px; 
+	width: 280px; 
+	height: 120px;
+}
+
+.koordinator
+{
+	position: absolute; 
+	top: 568px; 
+	left: 225px; 
+	width: 280px; 
+	height: 120px;
+}
+
+.line2
+{
+	position: absolute; 
+	top: 478px; 
+	left: 660px; 
+	width: 280px; 
+	height: 120px;
+}
+
+.makim
+{
+	position: absolute; 
+	top: 545px; 
+	left: 670px; 
+	width: 280px; 
+	height: 120px;
+}
+
+.direktor
+{
+	position: absolute; 
+	top: 568px; 
+	left: 715px; 
+	width: 280px; 
+	height: 120px;
+}
+
+.gsmlogo
+{
+	position:absolute;
+	top: 180px;
+	left: 350px;
+}
+.gsmlogo img
+{
+	opacity: .15;
+	height: 400px;
+	width: auto;
+}
